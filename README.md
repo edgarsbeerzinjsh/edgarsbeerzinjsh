@@ -15,7 +15,7 @@ After exploring various career paths and gaining valuable experience, I'm excite
 ### Last projects
 * [TimedWebScrap](https://github.com/edgarsbeerzinjsh/TimedWebScrap) - Timed azure function to read data from publicapis.org and store data locally.
 * [FlightPlaner](https://github.com/edgarsbeerzinjsh/FlightPlaner) - Web application using C# and HTTP & Web API
-* [SQL querry training](https://github.com/edgarsbeerzinjsh/CodelexSQL) -  Used SQL to manage and manipulate relational databases, writing queries to extract data, create tables, and modify data structures
+* [SQL querry](https://github.com/edgarsbeerzinjsh/CodelexSQL) -  Used SQL to manage and manipulate relational databases, writing queries to extract data, create tables, and modify data structures
 * [ScoooterRental](https://github.com/edgarsbeerzinjsh/ScoooterRental) - Test-Driven Development methodology for Scooter Rental program.
 
 <!--
