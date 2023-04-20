@@ -1,7 +1,7 @@
 ## <div align="center">Hi 👋, I'm Edgars</div>
 
 
-I am a Software Developer with a strong passion for creating efficient and effective software solutions through backend development. I have extensive experience with various technologies and frameworks, including .NET, which has allowed me to develop a deep understanding of backend development best practices. With a focus on delivering high-quality results that align with industry standards, I am committed to creating software solutions that meet the needs of end-users and businesses alike.
+I am a Software Developer with a strong passion for creating efficient and effective software solutions through backend development. I have experience with various technologies and frameworks, which has allowed me to develop a deep understanding of backend development best practices. With a focus on delivering high-quality results that align with industry standards, I am committed to creating software solutions that meet the needs of end-users and businesses alike.
 
 <a href=https://www.linkedin.com/in/edgars-berzins/><img align="left" src=https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg alt="Edgars Berzins | LinkedIn" width="30"/></a>
 </br>
