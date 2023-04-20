@@ -14,6 +14,7 @@ After exploring various career paths and gaining valuable experience, I'm excite
 ---
 ### Last projects
 * [TimedWebScrap](https://github.com/edgarsbeerzinjsh/TimedWebScrap) - Timed azure function to read data from publicapis.org and store data locally.
+* [FlightPlaner](https://github.com/edgarsbeerzinjsh/FlightPlaner) - Web application using C# and HTTP & Web API
 
 <!--
 **edgarsbeerzinjsh/edgarsbeerzinjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
