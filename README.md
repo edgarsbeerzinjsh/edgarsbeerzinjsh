@@ -13,10 +13,14 @@ I am a Software Developer with a strong passion for creating efficient and effec
 
 ---
 ### Last projects
+* [CarSpeedReview](https://github.com/edgarsbeerzinjsh/CarSpeedReview) - Developed system using React for the front-end and ASP.NET Web API for the back-end, allowing users to load and review car speed statistics, apply filters, and view average speed graphs.
 * [TimedWebScrap](https://github.com/edgarsbeerzinjsh/TimedWebScrap) - Timed azure function to read data from publicapis.org and store data locally.
 * [FlightPlaner](https://github.com/edgarsbeerzinjsh/FlightPlaner) - Web application using C# and HTTP & Web API
+<details><summary>More</summary>
+ 
 * [SQL querry](https://github.com/edgarsbeerzinjsh/CodelexSQL) -  Used SQL to manage and manipulate relational databases, writing queries to extract data, create tables, and modify data structures
 * [ScoooterRental](https://github.com/edgarsbeerzinjsh/ScoooterRental) - Test-Driven Development methodology for Scooter Rental program.
+</details> 
 
 <!--
 **edgarsbeerzinjsh/edgarsbeerzinjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
