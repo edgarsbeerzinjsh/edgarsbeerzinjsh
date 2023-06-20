@@ -13,12 +13,13 @@ I am a Software Developer with a strong passion for creating efficient and effec
 
 ---
 ### Last projects
+* [WeatherAPI](https://github.com/edgarsbeerzinjsh/WeatherAPI) - .NET web service that returns current weather data determined by IP.
 * [ProductCodeBuilder](https://github.com/edgarsbeerzinjsh/ProductCodeBuilder) - React app that loads JSON data, allows selection of options and variations, and generates product codes based on the selected options. 
 * [CarSpeedReview](https://github.com/edgarsbeerzinjsh/CarSpeedReview) - Developed system using React for the front-end and ASP.NET Web API for the back-end, allowing users to load and review car speed statistics, apply filters, and view average speed graphs.
+<details><summary>Other projects</summary>
+
 * [TimedWebScrap](https://github.com/edgarsbeerzinjsh/TimedWebScrap) - Timed azure function to read data from publicapis.org and store data locally.
 * [FlightPlaner](https://github.com/edgarsbeerzinjsh/FlightPlaner) - Web application using C# and HTTP & Web API
-<details><summary>More</summary>
- 
 * [SQL querry](https://github.com/edgarsbeerzinjsh/CodelexSQL) -  Used SQL to manage and manipulate relational databases, writing queries to extract data, create tables, and modify data structures
 * [ScoooterRental](https://github.com/edgarsbeerzinjsh/ScoooterRental) - Test-Driven Development methodology for Scooter Rental program.
 </details> 
