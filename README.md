@@ -24,12 +24,17 @@ I am a Software Developer with a strong passion for creating efficient and effec
 * [ScoooterRental](https://github.com/edgarsbeerzinjsh/ScoooterRental) - Test-Driven Development methodology for Scooter Rental program.
 </details> 
 
+---
+<p align="center" href="https://github.com/edgarsbeerzinjsh/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsbeerzinjsh&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" />
+</p>
+
 <!--
 **edgarsbeerzinjsh/edgarsbeerzinjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsbeerzinjsh&layout=compact&langs_count=8)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsbeerzinjsh&show_icons=true&theme=transparent)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
